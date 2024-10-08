@@ -1,0 +1,25 @@
+body{
+  font-family: arial;
+}
+
+
+.add{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+input{
+  height: 30px;
+}
+input::placeholder{
+  padding: 5px;
+  color: black;
+  font-size: 15px;
+}
+.add1{
+  height: 35px;
+  padding:5px 10px;
+  
+}
